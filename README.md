@@ -37,5 +37,3 @@ Example:
 
 ---
 
-## 🧠 Training the Model
-Run the script to train and evaluate:
